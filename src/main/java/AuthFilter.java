@@ -1,5 +1,4 @@
-import dao.UserDao;
-import entities.User;
+
 
 import javax.servlet.*;
 import javax.servlet.annotation.WebFilter;
